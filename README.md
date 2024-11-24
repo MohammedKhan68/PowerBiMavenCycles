@@ -1,9 +1,6 @@
 ![image](https://github.com/user-attachments/assets/4e2cd0fa-b522-4776-ac4c-2f929a883155)
 
 
-Here’s a brief you can use for your GitHub README based on this dashboard:
-
----
 
 ### Maven Cycles Sales Performance Dashboard  
 
@@ -17,6 +14,4 @@ This Power BI dashboard provides a comprehensive analysis of Maven Cycles' sales
 
 This interactive dashboard leverages advanced Power BI features, such as slicers for filtering by product subcategories and dynamic goal indicators for profit and revenue.  
 
---- 
 
-If you’d like additional details included or modifications, let me know!
